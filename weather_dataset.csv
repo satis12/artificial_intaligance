@@ -1,0 +1,7 @@
+Date,Location,Temperature (C),Humidity (%),Precipitation (mm),Wind Speed (km/h),Weather Condition
+01-09-2023,New York,25,65,0.5,15,Sunny
+02-09-2023,New York,22,70,2,20,Partly Cloudy
+03-09-2023,New York,24,60,0,10,Clear
+01-09-2023,Los Angeles,30,50,0,12,Sunny
+02-09-2023,Los Angeles,28,55,0,10,Sunny
+03-09-2023,Los Angeles,29,60,0.2,15,Light Rain

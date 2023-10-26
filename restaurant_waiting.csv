@@ -1,0 +1,7 @@
+Customer Name,Party Size,Reservation Time,Arrival Time,Wait Time (minutes),Table Assigned
+John Smith,2,09-08-2023 18:30,09-08-2023 18:45,15,Table 3
+Jane Doe,4,09-08-2023 19:00,09-08-2023 19:10,10,Table 5
+Bob Johnson,3,09-08-2023 19:30,09-08-2023 19:45,15,Table 2
+Alice Brown,2,09-08-2023 20:00,09-08-2023 20:10,10,Table 4
+David Lee,5,09-08-2023 20:15,09-08-2023 20:25,10,Table 1
+Sara White,2,09-08-2023 21:00,09-08-2023 21:10,10,Table 6
